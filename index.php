@@ -9,6 +9,8 @@ echo "some string here";
 
 echo "a very very long file new";
 
+echo "tiger echo fist";
+
 /*if ($_POST['edit']) {
 
 	echo "for editing";
